@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master");
         System.out.println("yd-test");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
